@@ -20,3 +20,5 @@ complete analysis.
 
 
 See example.m and example2.m for rowing trajectory examples
+
+Note that this implementation is based on an recovered earlier 2013 version of the code and might differ in details from the implementation in the paper. I have tried to recreate the code of the paper to the best of my ability.
